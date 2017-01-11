@@ -1,0 +1,6 @@
+D:\Csharp\RE_W\RE_W\bin\Debug\RE_W.exe.config
+D:\Csharp\RE_W\RE_W\bin\Debug\RE_W.exe
+D:\Csharp\RE_W\RE_W\bin\Debug\RE_W.pdb
+D:\Csharp\RE_W\RE_W\obj\Debug\RE_W.csprojResolveAssemblyReference.cache
+D:\Csharp\RE_W\RE_W\obj\Debug\RE_W.exe
+D:\Csharp\RE_W\RE_W\obj\Debug\RE_W.pdb
